@@ -127,6 +127,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.link_lensenv
+link_lensenv/
+link_lensenv.bak/
 
 # Spyder project settings
 .spyderproject
